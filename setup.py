@@ -9,7 +9,7 @@ with open('chord_extractor/version.py') as fp:
 
 setuptools.setup(
     name="chord-extractor",
-    version=version['__version__'],
+    version=1.0.0,
     author="Oliver Holloway",
     author_email="oholloway.consulting@gmail.com",
     description="Python library for extracting chords from multiple sound file formats",
